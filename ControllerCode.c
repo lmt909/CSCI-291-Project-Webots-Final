@@ -2,7 +2,7 @@
     CSCI291- Programming for Engineers
     Final Project 2024
     Done By: Leul Tilahun- 7933290
-             Mohamad Karam Badawi- 
+             Mohamad Karam Badawi- 8482184
 */
 #include <stdio.h>
 #include <webots/robot.h>
